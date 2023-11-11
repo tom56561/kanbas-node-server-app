@@ -9,9 +9,29 @@ const assignment = {
 
 
 const Lab5 = (app) => {
+    app.get("/a5/assignment/score/:newScore", (req, res) => {
+        const { newScore } = req.params;
+        assignment.score = parseInt(newScore);
+        res.json(assignment);
+    });
+
+    app.get("/a5/assignment/completed/:newCompleted", (req, res) => {
+        const { newCompleted } = req.params;
+        assignment.completed = newCompleted === 'true';
+        res.json(assignment);
+    });
     app.get("/a5/assignment", (req, res) => {
         res.json(assignment);
     });
+    app.get("/a5/assignment/title", (req, res) => {
+        res.json(assignment.title);
+    });
+    app.get("/a5/assignment/title/:newTitle", (req, res) => {
+        const { newTitle } = req.params;
+        assignment.title = newTitle;
+        res.json(assignment);
+    });
+
     app.get("/a5/welcome", (req, res) => {
         res.send("Welcome to Assignment 5");
     });
