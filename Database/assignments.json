@@ -1,0 +1,83 @@
+[
+  {
+    "_id": "A101",
+    "name": "Propulsion Assignment",
+    "description": "Explore the fundamentals of propulsion and its applications in aerospace engineering",
+    "dueDate": "2023-12-01T23:59:00Z",
+    "availableFromDate": "2023-11-01T00:00:00Z",
+    "availableUntilDate": "2023-12-01T23:59:00Z",
+    "course": "RS101"
+  },
+  {
+    "_id": "A102",
+    "name": "Combustion Analysis",
+    "description": "Analyze combustion mechanisms and their influence on engine performance",
+    "dueDate": "2023-12-08T23:59:00Z",
+    "availableFromDate": "2023-11-08T00:00:00Z",
+    "availableUntilDate": "2023-12-08T23:59:00Z",
+    "course": "RS101"
+  },
+  {
+    "_id": "A103",
+    "name": "Nozzle Design Project",
+    "description": "Design and simulate a rocket nozzle, considering various thermodynamic properties",
+    "dueDate": "2023-12-15T23:59:00Z",
+    "availableFromDate": "2023-11-15T00:00:00Z",
+    "availableUntilDate": "2023-12-15T23:59:00Z",
+    "course": "RS101"
+  },
+  {
+    "_id": "A201",
+    "name": "Aerodynamics Quiz",
+    "description": "Test your understanding of aerodynamic principles in high-speed flight.",
+    "dueDate": "2023-12-22T23:59:00Z",
+    "availableFromDate": "2023-11-22T00:00:00Z",
+    "availableUntilDate": "2023-12-22T23:59:00Z",
+    "course": "RS102"
+  },
+  {
+    "_id": "A202",
+    "name": "Flow Analysis",
+    "description": "Perform computational fluid dynamics simulations for different airfoil shapes",
+    "dueDate": "2023-12-29T23:59:00Z",
+    "availableFromDate": "2023-11-29T00:00:00Z",
+    "availableUntilDate": "2023-12-29T23:59:00Z",
+    "course": "RS102"
+  },
+  {
+    "_id": "A203",
+    "name": "Heating Analysis",
+    "description": "Analyze the thermal loads on spacecraft during atmospheric re-entry",
+    "dueDate": "2024-01-05T23:59:00Z",
+    "availableFromDate": "2023-12-05T00:00:00Z",
+    "availableUntilDate": "2024-01-05T23:59:00Z",
+    "course": "RS102"
+  },
+  {
+    "_id": "A301",
+    "name": "Structural Design Task",
+    "description": "Design a load-bearing structure for a satellite using lightweight materials",
+    "dueDate": "2024-01-12T23:59:00Z",
+    "availableFromDate": "2023-12-12T00:00:00Z",
+    "availableUntilDate": "2024-01-12T23:59:00Z",
+    "course": "RS103"
+  },
+  {
+    "_id": "A302",
+    "name": "Orbital Calculations",
+    "description": "Calculate orbits for various mission profiles and understand the implications of orbital mechanics",
+    "dueDate": "2024-01-19T23:59:00Z",
+    "availableFromDate": "2023-12-19T00:00:00Z",
+    "availableUntilDate": "2024-01-19T23:59:00Z",
+    "course": "RS103"
+  },
+  {
+    "_id": "A303",
+    "name": "Systems Engineering Exam",
+    "description": "Evaluate your comprehension of systems engineering practices and methodologies",
+    "dueDate": "2024-01-26T23:59:00Z",
+    "availableFromDate": "2023-12-26T00:00:00Z",
+    "availableUntilDate": "2024-01-26T23:59:00Z",
+    "course": "RS103"
+  }
+]

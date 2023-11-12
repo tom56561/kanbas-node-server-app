@@ -1,0 +1,25 @@
+[
+    { "_id": "RS101",
+      "name": "Web", "number": "CS5610", "startDate": "2023-01-10",
+      "endDate": "2023-05-15"
+    },
+    { "_id": "RS102",
+      "name": "Python", "number": "CS5001", "startDate": "2023-01-10", "endDate": "2023-05-15"
+    },
+    { "_id": "RS103",
+      "name": "Database", "number": "CS5200", "startDate": "2023-01-10", "endDate": "2023-05-15"
+    },
+    { "_id": "RS104",
+      "name": "Web", "number": "CS5610", "startDate": "2023-01-10",
+      "endDate": "2023-05-15"
+    },
+    { "_id": "RS105",
+      "name": "Python", "number": "CS5001", "startDate": "2023-01-10", "endDate": "2023-05-15"
+    },
+    { "_id": "RS106",
+      "name": "Database", "number": "CS5200", "startDate": "2023-01-10", "endDate": "2023-05-15"
+    },
+    { "_id": "RS107",
+    "name": "Algo", "number": "CS5008", "startDate": "2023-01-10", "endDate": "2023-05-15"
+    }
+  ]
